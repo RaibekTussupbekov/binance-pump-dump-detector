@@ -34,7 +34,7 @@ Detect **abnormal price movements** (pumps or dumps) of altcoin/USDT pairs on Bi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/binance-pump-dump-detector.git
+   git clone https://github.com/RaibekTussupbekov/binance-pump-dump-detector.git
    cd binance-pump-dump-detector
    ```
 
